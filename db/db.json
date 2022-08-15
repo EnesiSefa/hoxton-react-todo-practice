@@ -1,19 +1,14 @@
 {
   "todos": [
     {
-      "todo": "run",
-      "completed": false,
-      "id": 29
-    },
-    {
-      "todo": "run",
-      "completed": false,
-      "id": 30
-    },
-    {
       "todo": "read",
       "completed": false,
-      "id": 31
+      "id": 1
+    },
+    {
+      "todo": "run",
+      "completed": false,
+      "id": 2
     }
   ]
 }
